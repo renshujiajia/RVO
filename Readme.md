@@ -8,7 +8,7 @@ exampleGlRvo.cpp
 
 示例结果：
 
-![](.\pic\test.gif)
+![](https://github.com/renshujiajia/RVO/blob/RVO/pic/test.gif)
 
 **项目中源代码分为2D和3D实现两部分**
 
